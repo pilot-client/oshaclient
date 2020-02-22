@@ -2,8 +2,8 @@
 module.exports = {
     connection: {
         host: '000webhost.com',
-        user: 'zentclient',
+        user: 'id12676389_zentclient',
         password: 'zentclientzentclientzentclient',
     },
-    database: 'zentclient'
+    database: 'id12676389_zentclient'
 };
