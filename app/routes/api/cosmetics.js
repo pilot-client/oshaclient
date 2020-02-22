@@ -5,7 +5,6 @@ Example:
 [
   {
     "uuid": "575973e5-e497-3cb3-bb63-d114ffcff0b1",
-    "cape_enabled": 0,
     "cape_style": null,
     "hat": {
       "enabled": 0,
@@ -17,7 +16,6 @@ Example:
   },
   {
     "uuid": "575973e5-e497-3cb3-bb63-d114ffcff0b2",
-    "cape_enabled": 1,
     "cape_style": "smiley_face",
     "hat": {
       "enabled": 0,
@@ -66,10 +64,10 @@ module.exports = (app, passport, database) => {
                 //push a new object containing the fields to the array
                 objs.push({
                     uuid: row.uuid,
-                    cape_enabled: row.cape_enabled,
                     cape_style: row.cape_style,
                     hat: hat,
-                    googly_eyes: row.googly_eyes
+                    googly_eyes: row.googly_eyes,
+					wings: row.wings,
                 });
             }
             
