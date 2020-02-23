@@ -67,7 +67,8 @@ module.exports = (app, passport, database) => {
                     cape_style: row.cape_style,
                     hat: hat,
                     googly_eyes: row.googly_eyes,
-					wings: row.wings,
+		    wings: row.wings,
+		    halo: row.halo
                 });
             }
             
