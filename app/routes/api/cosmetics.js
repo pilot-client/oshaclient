@@ -64,9 +64,9 @@ module.exports = (app, passport, database) => {
                 var halo = new Object();
                 
                 halo.enabled = row.hat_enabled;
-                halo.r = row.hat_color_r;
-                halo.g = row.hat_color_g;
-                halo.b = row.hat_color_b;
+                halo.r = row.halo_color_r;
+                halo.g = row.halo_color_g;
+                halo.b = row.halo_color_b;
                 //push a new object containing the fields to the array
                 objs.push({
                     uuid: row.uuid,
