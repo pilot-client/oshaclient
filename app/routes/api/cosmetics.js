@@ -66,9 +66,9 @@ module.exports = (app, passport, database) => {
                     uuid: row.uuid,
                     cape_style: row.cape_style,
                     hat: hat,
-                    googly_eyes: row.googly_eyes,
+                    halo: row.halo,
 		    wings: row.wings,
-		    halo: row.halo
+		    googly_eyes: row.googly_eyes
                 });
             }
             
