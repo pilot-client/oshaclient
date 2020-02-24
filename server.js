@@ -40,5 +40,5 @@ app.use('/static', express.static('views/static'));
 require('./app/routes.js')(app, passport); //load our routes and pass in our app and fully configured passport
 
 app.listen(port);
-console.log("Running Eric's Client Communication Server v" + config.version);
+console.log("Running Zent's Client Communication Server v" + config.version);
 console.log(`The magic happens on port ${port}`);
