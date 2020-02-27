@@ -2,8 +2,8 @@
 module.exports = {
     connection: {
         host: 'remotemysql.com',
-        user: 'paynowclient',
-        password: nova2020',
+        user: 'ALmAD2mVET',
+        password: X6onhH0mRv',
     },
-    database: 'Piloit-Client'
+    database: 'PALmAD2mVET'
 };
