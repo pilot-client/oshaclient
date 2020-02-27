@@ -5,5 +5,5 @@ module.exports = {
         user: 'ALmAD2mVET',
         password: 'X6onhH0mRv',
     },
-    database: 'PALmAD2mVET'
+    database: 'ALmAD2mVET'
 };
