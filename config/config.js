@@ -4,7 +4,7 @@ module.exports = {
     version: '1.0.2-Beta',
     
     //Change anything below this line
-    client_secret: 'lsdf934ojasldje7946_Sdasasdasd',
+    client_secret: '4036213',
     port: 8080,
     
     clientSettings: {
