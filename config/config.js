@@ -4,7 +4,7 @@ module.exports = {
     version: '1.0.2-Beta',
     
     //Change anything below this line
-    client_secret: 'zentclientzentclientzentclient',
+    client_secret: 'lsdf934ojasldje7946_Sdasasdasd',
     port: 8080,
     
     clientSettings: {
