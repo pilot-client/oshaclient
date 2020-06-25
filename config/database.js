@@ -1,9 +1,9 @@
 // config/database.js
 module.exports = {
     connection: {
-        host: 'remotemysql.com',
-        user: 'ALmAD2mVET',
-        password: 'X6onhH0mRv',
+        host: 'b9kefqf22ilud8uqpczu-mysql.services.clever-cloud.com',
+        user: 'ugh5sf6qyf3sfwbz',
+        password: 'Tjs2J4Z0imD76jRYSk2b',
     },
-    database: 'ALmAD2mVET'
+    database: 'b9kefqf22ilud8uqpczu'
 };
