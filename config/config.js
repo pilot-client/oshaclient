@@ -5,7 +5,7 @@ module.exports = {
     
     //Change anything below this line
     client_secret: '4036213',
-    port: 8080,
+    port: 3306,
     
     clientSettings: {
         isWhitelisted: true,
