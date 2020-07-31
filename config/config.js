@@ -8,7 +8,7 @@ module.exports = {
     port: 3306,
     
     clientSettings: {
-        isWhitelisted: true,
+        isWhitelisted: false,
         latestVersion: "1.0.0"
         /*Add anything here you want to be included in /api/globalSettings*/
     }
